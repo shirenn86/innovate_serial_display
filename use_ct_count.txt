@@ -1,0 +1,6 @@
+ct=0	initial value		(初期値
+ct=1	read header after		(130読み込み後
+ct=2
+ct=3
+ct=4	
+ct=5	Display after calculation	(計算後、表示
